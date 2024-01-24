@@ -1,0 +1,7 @@
+{
+    "editor.cursorBlinking": "smooth",
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.colorTheme": "Visual Studio Dark - C++"
+}
